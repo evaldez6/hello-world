@@ -1,2 +1,3 @@
 # hello-world
-Test hello world from github tutorial
+
+This is a test of updating the readme.md file.
